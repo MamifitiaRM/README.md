@@ -15,7 +15,6 @@ I'm a third-year Telecommunications student at the École Supérieure Polytechni
 - **[Cisco CCNA Mega Lab](https://github.com/MamifitiaRM/lab-reseaux-1)**: enterprise network lab built in Cisco Packet Tracer (VLAN, OSPF, HSRP, ACL, NAT/PAT, Layer 2 security).
 - **[E-Aka'njo](https://github.com/MamifitiaRM/e-akan-jo)**: MERN e-commerce application, [live demo](https://e-akan-jo.vercel.app/).
 - **[Capitales du monde](https://github.com/MamifitiaRM/capitale-du-monde)**: interactive geography quiz, [live demo](https://capitale-du-monde.vercel.app/).
-- **[Portfolio](https://github.com/MamifitiaRM/portfolio)**: bilingual scrapbook-style portfolio built with React, TypeScript, Vite and Tailwind CSS.
 
 ## Skills
 
